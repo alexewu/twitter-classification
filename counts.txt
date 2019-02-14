@@ -1,0 +1,28 @@
+costaRicaEarthquake2012
+	- 28 posts failed to load
+	- 219 posts that loaded
+	- 247 posts in total
+fireColorado2012
+	- 11 posts failed to load
+	- 252 posts that loaded
+	- 263 posts in total
+floodColorado2013
+	- 11 posts failed to load
+	- 224 posts that loaded
+	- 235 posts in total
+typhoonPablo2012
+	- 20 posts failed to load
+	- 224 posts that loaded
+	- 244 posts in total
+laAirportShooting2013
+	- 10 posts failed to load
+	- 152 posts that loaded
+	- 162 posts in total
+westTexasExplosion2013
+	- 20 posts failed to load
+	- 164 posts that loaded
+	- 184 posts in total
+
+Total posts that failed to load: 100
+Total posts that loaded: 1235
+Total posts: 1335
