@@ -1,4 +1,5 @@
 import tweepy
+from tweepy.auth import OAuthHandler
 import json
 from pprint import pprint
 
@@ -9,7 +10,7 @@ auth.set_access_token("1088318072845492224-kiJEdhmm1cGY5gwgQdkiLDgJfsxUtp", "Ohb
 api = tweepy.API(auth)
 
 
-with open("/Users/alexandrawu/Desktop/twitter/training-data.json") as f:
+with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/posts/training-data.json") as f:
     data = json.load(f)
 
 #EXRACT ALL DATA
@@ -20,19 +21,39 @@ all_data = []
 numErrorPosts = 0
 numNormalPosts = 0
 
-for event in all:
-    event_dict = {}
-    event_dict["eventid"] = event["eventid"]
-    tweets = []
-    index = 0
-    for tweet in event["tweets"]:
+# for event in all:
+#     event_dict = {}
+#     event_dict["eventid"] = event["eventid"]
+#     tweets = []
+#     index = 0
+#     for tweet in event["tweets"]:
+#         content = {}
+#         content["postID"] = tweet["postID"]
+#         content["categories"] = tweet["categories"]
+#         content["indicatorTerms"] = tweet["indicatorTerms"]
+#         content["priority"] = tweet["priority"]
+#         tweets.append(content)
+#         index += 1
+#         try:
+#             tweet = api.get_status(tweet['postID'])
+#             content["content"] = tweet.text
+#             numNormalPosts += 1
+#         except tweepy.TweepError:
+#             numErrorPosts += 1
+#             print("Failed to get info on", tweet['postID'], "....Skipping...") #do not include this information in JSON data
+#     event_dict["tweets"] = tweets
+#     all_data.append(event_dict)
+
+event_dict = {}
+event_dict["eventid"] = "laShooting"
+tweets = []
+for tweet in all[4]["tweets"]:
         content = {}
         content["postID"] = tweet["postID"]
         content["categories"] = tweet["categories"]
         content["indicatorTerms"] = tweet["indicatorTerms"]
         content["priority"] = tweet["priority"]
         tweets.append(content)
-        index += 1
         try:
             tweet = api.get_status(tweet['postID'])
             content["content"] = tweet.text
@@ -40,8 +61,7 @@ for event in all:
         except tweepy.TweepError:
             numErrorPosts += 1
             print("Failed to get info on", tweet['postID'], "....Skipping...") #do not include this information in JSON data
-    event_dict["tweets"] = tweets
-    all_data.append(event_dict)
+event_dict["tweets"] = tweets
 
 
 # print("Number of posts that failed to load: ", numErrorPosts)
@@ -50,6 +70,6 @@ for event in all:
 # print("\nTweets in", data['events'][5]['eventid'], ":")
 # for key, value in event_data.items():
 #     print(key, ':', value)
-with open('/Users/alexandrawu/Desktop/twitter/with-post-content.json', 'w') as outfile:
-    json.dump(all_data, outfile, indent=4)
+with open('/Users/alexandrawu/Desktop/twitter/la_shooting_with_content.json', 'w') as outfile:
+    json.dump(event_dict, outfile, indent=4)
 
