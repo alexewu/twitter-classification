@@ -21,39 +21,17 @@ all_data = []
 numErrorPosts = 0
 numNormalPosts = 0
 
-# for event in all:
-#     event_dict = {}
-#     event_dict["eventid"] = event["eventid"]
-#     tweets = []
-#     index = 0
-#     for tweet in event["tweets"]:
-#         content = {}
-#         content["postID"] = tweet["postID"]
-#         content["categories"] = tweet["categories"]
-#         content["indicatorTerms"] = tweet["indicatorTerms"]
-#         content["priority"] = tweet["priority"]
-#         tweets.append(content)
-#         index += 1
-#         try:
-#             tweet = api.get_status(tweet['postID'])
-#             content["content"] = tweet.text
-#             numNormalPosts += 1
-#         except tweepy.TweepError:
-#             numErrorPosts += 1
-#             print("Failed to get info on", tweet['postID'], "....Skipping...") #do not include this information in JSON data
-#     event_dict["tweets"] = tweets
-#     all_data.append(event_dict)
-
-event_dict = {}
-event_dict["eventid"] = "laShooting"
-tweets = []
-for tweet in all[4]["tweets"]:
+for event in all:
+    index = 0
+    for tweet in event["tweets"]:
         content = {}
+        content['eventid'] = event["eventid"]
         content["postID"] = tweet["postID"]
         content["categories"] = tweet["categories"]
         content["indicatorTerms"] = tweet["indicatorTerms"]
         content["priority"] = tweet["priority"]
-        tweets.append(content)
+        all_data.append(content)
+        index += 1
         try:
             tweet = api.get_status(tweet['postID'])
             content["content"] = tweet.text
@@ -61,7 +39,25 @@ for tweet in all[4]["tweets"]:
         except tweepy.TweepError:
             numErrorPosts += 1
             print("Failed to get info on", tweet['postID'], "....Skipping...") #do not include this information in JSON data
-event_dict["tweets"] = tweets
+
+# event_dict = {}
+# event_dict["eventid"] = "laShooting"
+# tweets = []
+# for tweet in all[4]["tweets"]:
+#         content = {}
+#         content["postID"] = tweet["postID"]
+#         content["categories"] = tweet["categories"]
+#         content["indicatorTerms"] = tweet["indicatorTerms"]
+#         content["priority"] = tweet["priority"]
+#         tweets.append(content)
+#         try:
+#             tweet = api.get_status(tweet['postID'])
+#             content["content"] = tweet.text
+#             numNormalPosts += 1
+#         except tweepy.TweepError:
+#             numErrorPosts += 1
+#             print("Failed to get info on", tweet['postID'], "....Skipping...") #do not include this information in JSON data
+# event_dict["tweets"] = tweets
 
 
 # print("Number of posts that failed to load: ", numErrorPosts)

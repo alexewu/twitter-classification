@@ -1,5 +1,6 @@
 import tweepy
 import json
+from tweepy.auth import OAuthHandler
 from pprint import pprint
 
 #access API
@@ -37,6 +38,6 @@ print("Got", numNormalPosts, "posts")
 print("\nTweets in", data['events'][5]['eventid'], ":")
 for key, value in event_data.items():
     print(key, ':', value)
-with open('/Users/alexandrawu/Desktop/twitter-categorizer/with-post-content.json', 'w') as outfile:
+with open('/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/posts/blah.json', 'w') as outfile:
     json.dump(event_data, outfile, indent=4)
 
