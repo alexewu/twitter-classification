@@ -58,11 +58,11 @@ for post in test_data:
     if maxPriority[0] == post["priority"]:
         num_correct += 1
 
-with open('/Users/alexandrawu/Desktop/twitter/ratings.json', 'w') as outfile:
-    json.dump(output, outfile, indent=4)
+print("The number of correctly categorized posts is %d out of %d" % (num_correct, num_total))
+print("The percent correctly calculated is %d" % (num_correct/float(num_total)))
 
-print("The number of correctly categorized posts is %d out of %d", num_correct, num_total)
-print("The percent correctly calculated is %d", num_correct/float(num_total))
+with open('/Users/alexandrawu/Desktop/twitter2/ratings.json', 'w') as outfile:
+    json.dump(output, outfile, indent=4)
 
 
 
