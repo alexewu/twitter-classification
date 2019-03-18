@@ -29,7 +29,7 @@ for itn in range(10):
         nlp.update([doc], [gold], sgd=optimizer)
 
 
-with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/10-dev.json") as f:
+with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/10-dev-no-error.json") as f:
     test_data = json.load(f)
 
 num_correct = 0
