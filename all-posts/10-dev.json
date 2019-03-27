@@ -354,16 +354,6 @@
     },
     {
         "eventid": "fireColorado2012",
-        "postID": "211281973870727170",
-        "categories": [
-            "Irrelevant"
-        ],
-        "indicatorTerms": [],
-        "priority": "Low",
-        "content": "Error"
-    },
-    {
-        "eventid": "fireColorado2012",
         "postID": "212887096262791168",
         "categories": [
             "ContinuingNews"
@@ -683,19 +673,6 @@
     },
     {
         "eventid": "floodColorado2013",
-        "postID": "378211338851344384",
-        "categories": [
-            "Weather"
-        ],
-        "indicatorTerms": [
-            "more",
-            "rain"
-        ],
-        "priority": "High",
-        "content": "Error"
-    },
-    {
-        "eventid": "floodColorado2013",
         "postID": "378056971686932480",
         "categories": [
             "ServiceAvailable"
@@ -788,16 +765,6 @@
         "indicatorTerms": [],
         "priority": "Low",
         "content": "Did you know? Via @bouldercolorado: #Boulder is the #1 flash flood risk community in Colorado. #Boulderflood http://t.co/BIuwhpDQfL #COwx"
-    },
-    {
-        "eventid": "floodColorado2013",
-        "postID": "379284581548949504",
-        "categories": [
-            "Advice"
-        ],
-        "indicatorTerms": [],
-        "priority": "Low",
-        "content": "Error"
     },
     {
         "eventid": "floodColorado2013",
@@ -899,18 +866,6 @@
     },
     {
         "eventid": "typhoonPablo2012",
-        "postID": "275883940139655168",
-        "categories": [
-            "Sentiment"
-        ],
-        "indicatorTerms": [
-            "Pray"
-        ],
-        "priority": "Low",
-        "content": "Error"
-    },
-    {
-        "eventid": "typhoonPablo2012",
         "postID": "275231293854326784",
         "categories": [
             "Sentiment"
@@ -930,16 +885,6 @@
         "indicatorTerms": [],
         "priority": "Low",
         "content": "It was predicted that the said Typhoon Pablo is more destructive than Sendong. But we have The Almighty God who'll spare us from harm. \ud83d\udc7c\ud83d\ude4f"
-    },
-    {
-        "eventid": "typhoonPablo2012",
-        "postID": "275594730295922688",
-        "categories": [
-            "Irrelevant"
-        ],
-        "indicatorTerms": [],
-        "priority": "Low",
-        "content": "Error"
     },
     {
         "eventid": "typhoonPablo2012",
@@ -1005,18 +950,6 @@
     },
     {
         "eventid": "typhoonPablo2012",
-        "postID": "275268048536096769",
-        "categories": [
-            "ContinuingNews"
-        ],
-        "indicatorTerms": [
-            "Linked"
-        ],
-        "priority": "Low",
-        "content": "Error"
-    },
-    {
-        "eventid": "typhoonPablo2012",
         "postID": "275538346258874368",
         "categories": [
             "Sentiment"
@@ -1065,18 +998,6 @@
         ],
         "priority": "Low",
         "content": "@cdobloggers Thanks for info.. Our emergency team is monitoring the situ from here in HK.. Keep it coming. #PabloPH #CDO"
-    },
-    {
-        "eventid": "typhoonPablo2012",
-        "postID": "275555492573630464",
-        "categories": [
-            "Sentiment"
-        ],
-        "indicatorTerms": [
-            "\uff30\uff32\uff21\uff39"
-        ],
-        "priority": "Low",
-        "content": "Error"
     },
     {
         "eventid": "laAirportShooting2013",
@@ -1367,19 +1288,6 @@
     },
     {
         "eventid": "westTexasExplosion2013",
-        "postID": "324713159090921472",
-        "categories": [
-            "ContinuingNews"
-        ],
-        "indicatorTerms": [
-            "#TopStories",
-            "Linked"
-        ],
-        "priority": "Low",
-        "content": "Error"
-    },
-    {
-        "eventid": "westTexasExplosion2013",
         "postID": "324740635980599296",
         "categories": [
             "ContinuingNews"
@@ -1504,18 +1412,6 @@
     },
     {
         "eventid": "westTexasExplosion2013",
-        "postID": "324740413657325569",
-        "categories": [
-            "MultimediaShare"
-        ],
-        "indicatorTerms": [
-            "Video"
-        ],
-        "priority": "Medium",
-        "content": "Error"
-    },
-    {
-        "eventid": "westTexasExplosion2013",
         "postID": "324737460867317761",
         "categories": [
             "MultimediaShare"
@@ -1584,5 +1480,64 @@
         ],
         "priority": "Medium",
         "content": "RT @CenTexRedCross: Red Cross is working with local emergency management to identify shelter locations. #West"
+    },
+    {
+        "eventid": "westTexasExplosion2013",
+        "postID": "324742263370575873",
+        "categories": [
+            "Sentiment"
+        ],
+        "indicatorTerms": [
+            "#prayforwest&am"
+        ],
+        "priority": "Low",
+        "content": "RT @claytruitt: Been a rough week for this country. Remember, no matter how bad it seems, continue to trust in the Lord. #prayforwest&am ..."
+    },
+    {
+        "eventid": "westTexasExplosion2013",
+        "postID": "324733555966099456",
+        "categories": [
+            "Irrelevant"
+        ],
+        "indicatorTerms": [],
+        "priority": "Low",
+        "content": "\"@BrigitteVelez: Katy is an hour away from Waco. we're next. prepare yourself.\" waco is in west texas..."
+    },
+    {
+        "eventid": "westTexasExplosion2013",
+        "postID": "324694339240460289",
+        "categories": [
+            "SignificantEventChange"
+        ],
+        "indicatorTerms": [
+            "Explosion",
+            "reported"
+        ],
+        "priority": "Critical",
+        "content": "Explosion reported at fertilizer plant in West, McLennan Co."
+    },
+    {
+        "eventid": "westTexasExplosion2013",
+        "postID": "324745052561756160",
+        "categories": [
+            "MultimediaShare"
+        ],
+        "indicatorTerms": [
+            "Video"
+        ],
+        "priority": "Low",
+        "content": "RT @laurenonizzle: This iPhone video of the fertilizer plant explosion near #Waco will send chills up your spine. Surreal. http://t.co/O ..."
+    },
+    {
+        "eventid": "westTexasExplosion2013",
+        "postID": "324736257097883649",
+        "categories": [
+            "MultimediaShare"
+        ],
+        "indicatorTerms": [
+            "Video"
+        ],
+        "priority": "Medium",
+        "content": "Video of the explosion in Texas, prayers are with them \n\nhttp://t.co/uN9itXJtoF\""
     }
 ]

@@ -14,16 +14,6 @@
     },
     {
         "eventid": "costaRicaEarthquake2012",
-        "postID": "243368793773068289",
-        "categories": [
-            "Irrelevant"
-        ],
-        "indicatorTerms": [],
-        "priority": "Low",
-        "content": "Error"
-    },
-    {
-        "eventid": "costaRicaEarthquake2012",
         "postID": "245775888027877377",
         "categories": [
             "KnownAlready"
@@ -33,19 +23,6 @@
         ],
         "priority": "Low",
         "content": "#earthquake M 4.8, off the coast of Costa Rica: September 12, 2012 06:29:35 GMT http://t.co/wjvHAqPp"
-    },
-    {
-        "eventid": "costaRicaEarthquake2012",
-        "postID": "243455976546656256",
-        "categories": [
-            "ContinuingNews"
-        ],
-        "indicatorTerms": [
-            "@Reuters:",
-            "Based_On_Author"
-        ],
-        "priority": "Low",
-        "content": "Error"
     },
     {
         "eventid": "costaRicaEarthquake2012",
@@ -207,19 +184,6 @@
         ],
         "priority": "Low",
         "content": "RT @BBCWorld: Magnitude 7.9 #earthquake hits #CostaRica - USGS. Details soon: http://t.co/TcpLwxJJ"
-    },
-    {
-        "eventid": "costaRicaEarthquake2012",
-        "postID": "243604408787681280",
-        "categories": [
-            "ContinuingNews"
-        ],
-        "indicatorTerms": [
-            "Washington",
-            "Post:"
-        ],
-        "priority": "Low",
-        "content": "Error"
     },
     {
         "eventid": "costaRicaEarthquake2012",
@@ -1038,16 +1002,6 @@
     },
     {
         "eventid": "laAirportShooting2013",
-        "postID": "396332300796846081",
-        "categories": [
-            "Discussion"
-        ],
-        "indicatorTerms": [],
-        "priority": "Low",
-        "content": "Error"
-    },
-    {
-        "eventid": "laAirportShooting2013",
         "postID": "396319441031811072",
         "categories": [
             "Factoid"
@@ -1501,18 +1455,6 @@
         "indicatorTerms": [],
         "priority": "Low",
         "content": "Their was another explosion in west texas, wth!"
-    },
-    {
-        "eventid": "westTexasExplosion2013",
-        "postID": "324731261719564289",
-        "categories": [
-            "Sentiment"
-        ],
-        "indicatorTerms": [
-            "prayers"
-        ],
-        "priority": "Low",
-        "content": "Error"
     },
     {
         "eventid": "westTexasExplosion2013",
