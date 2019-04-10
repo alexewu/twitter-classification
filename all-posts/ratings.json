@@ -1,883 +1,531 @@
 [
     {
-        "costaRicaEarthquake2012": 0.00358834071084857,
+        "costaRicaEarthquake2012": 0.014759424142539501,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0009502989705651999,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.9664037823677063,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0007458480540663004,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.01289652194827795,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.10632333159446716,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0002578379644546658,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.00041313449037261307,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.17543546855449677,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0008375754696317017,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.0003931730461772531,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.8879730105400085,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0003602297801990062,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.04812173917889595,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.21440251171588898,
+        "fireColorado2012": 5.4384709073929116e-05,
+        "floodColorado2013": 0.0009423191659152508,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 8.90269220690243e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.750248372554779,
+        "fireColorado2012": 8.54478930705227e-05,
+        "floodColorado2013": 0.0005444895359687507,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.0023831145372241735,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.19246670603752136,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0005138927954249084,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.001581422402523458,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.006992456503212452,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00022226053988561034,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 9.213945304509252e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.04723266512155533,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0006258657667785883,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.0001692857767920941,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.04832702502608299,
+        "fireColorado2012": 5.911979314987548e-05,
+        "floodColorado2013": 0.0023732336703687906,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.00026275537675246596,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.1062932088971138,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0017927429871633649,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 6.68226057314314e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.058214448392391205,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00030534862889908254,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.00033735763281583786,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.5290573239326477,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.000358856312232092,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.0013136055786162615,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.0025573314633220434,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.001440580002963543,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.05837949737906456,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0001075869076885283,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.11521594971418381,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0012138070305809379,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.7896430492401123,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00017154814850073308,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.01899624988436699,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.4054422676563263,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00038132898043841124,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.00048498218529857695,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.7442925572395325,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0009075336856767535,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.09037889540195465,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00026811627321876585,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.012482168152928352,
+        "fireColorado2012": 5.64136789762415e-05,
+        "floodColorado2013": 0.0006723765400238335,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.0005004532285965979,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.00026003317907452583,
+        "floodColorado2013": 0.0004123420803807676,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.00012272864114493132,
+        "floodColorado2013": 0.0005522246356122196,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.001992236590012908,
+        "floodColorado2013": 0.003399244276806712,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.00012858807167503983,
+        "floodColorado2013": 0.0020026499405503273,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 8.784016972640529e-05,
+        "floodColorado2013": 0.0003105732030235231,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 8.29053606139496e-05,
+        "floodColorado2013": 0.0008897171355783939,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 5.180206790100783e-05,
+        "fireColorado2012": 0.001885733101516962,
+        "floodColorado2013": 0.0011672520777210593,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0006511177052743733,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.007095783017575741,
+        "floodColorado2013": 0.0040418533608317375,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.00018504569015931338,
+        "floodColorado2013": 0.0008880214882083237,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.005360872484743595,
+        "floodColorado2013": 0.0007383103366009891,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.004573616664856672,
+        "floodColorado2013": 0.0015828785253688693,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.041051216423511505,
+        "floodColorado2013": 0.0013710127677768469,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 5.772696385974996e-05,
+        "floodColorado2013": 0.0001843790669227019,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.0005071685882285237,
+        "floodColorado2013": 0.009239990264177322,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.8568697820883244e-05,
+        "fireColorado2012": 0.00023038654762785882,
+        "floodColorado2013": 0.001691545476205647,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 5.432282341644168e-05,
+        "fireColorado2012": 0.0001533860486233607,
+        "floodColorado2013": 0.0014193861279636621,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.00017525577277410775,
+        "floodColorado2013": 0.0026019043289124966,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.000273108045803383,
+        "floodColorado2013": 0.003975625615566969,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.00010225392179563642,
+        "floodColorado2013": 0.0010070685530081391,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.00012565116048790514,
+        "fireColorado2012": 0.0027658063918352127,
+        "floodColorado2013": 0.0018162394408136606,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.0006205379613675177,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0010418037418276072,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.02423550933599472,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.00035687058698385954,
+        "fireColorado2012": 0.00020273745758458972,
+        "floodColorado2013": 0.04512020945549011,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.011956934817135334,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0036423737183213234,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.015858907252550125,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.0004627930175047368,
+        "fireColorado2012": 0.00012924795737490058,
+        "floodColorado2013": 0.002524619922041893,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.008726975880563259,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.004868955817073584,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.00042049281182698905,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.004740789998322725,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.023520877584815025,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.011651594191789627,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.00010323365131625906,
+        "floodColorado2013": 0.0012039394350722432,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.006117194890975952,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.18433625996112823,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.000913898111321032,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.007724430412054062,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.002124143298715353,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.06708179414272308,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.00021586993534583598,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.009119180962443352,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 5.583958773058839e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.00010990611190209165,
+        "fireColorado2012": 0.00013969387509860098,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 5.5301232350757346e-05,
         "fireColorado2012": 4.539787187241018e-05,
         "floodColorado2013": 4.539787187241018e-05,
         "typhoonPablo2012": 4.539787187241018e-05,
         "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.7039336562156677
-    },
-    {
-        "costaRicaEarthquake2012": 0.10843035578727722,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.007019644603133202
-    },
-    {
-        "costaRicaEarthquake2012": 0.016589030623435974,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.18243296444416046
-    },
-    {
-        "costaRicaEarthquake2012": 0.0048525105230510235,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.2958151698112488
-    },
-    {
-        "costaRicaEarthquake2012": 0.3383329510688782,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.014218715019524097
-    },
-    {
-        "costaRicaEarthquake2012": 0.0006660932558588684,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.23552455008029938
-    },
-    {
-        "costaRicaEarthquake2012": 0.010192137211561203,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.15131200850009918
-    },
-    {
-        "costaRicaEarthquake2012": 0.0005393184255808592,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.0005590764340013266,
-        "westTexasExplosion2013": 0.7355136871337891
-    },
-    {
-        "costaRicaEarthquake2012": 0.00037000401061959565,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.000496968044899404,
-        "westTexasExplosion2013": 0.790876030921936
-    },
-    {
-        "costaRicaEarthquake2012": 0.0009736791835166514,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.0007112164166755974,
-        "westTexasExplosion2013": 0.6522404551506042
-    },
-    {
-        "costaRicaEarthquake2012": 0.0007142907124944031,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.00015280548541340977,
-        "westTexasExplosion2013": 0.9044629335403442
-    },
-    {
-        "costaRicaEarthquake2012": 0.07192946970462799,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.8785058259963989
-    },
-    {
-        "costaRicaEarthquake2012": 0.0010867164237424731,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.12470084428787231
-    },
-    {
-        "costaRicaEarthquake2012": 0.00379682844504714,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.4605301320552826
-    },
-    {
-        "costaRicaEarthquake2012": 0.00019793321553152055,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.7018236517906189
-    },
-    {
-        "costaRicaEarthquake2012": 0.4692115783691406,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.2726052403450012
-    },
-    {
-        "costaRicaEarthquake2012": 0.02622455358505249,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.7735071778297424
-    },
-    {
-        "costaRicaEarthquake2012": 0.07436645776033401,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 7.859992183512077e-05,
-        "westTexasExplosion2013": 0.04421611502766609
-    },
-    {
-        "costaRicaEarthquake2012": 0.0040663545951247215,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 7.892160647315904e-05,
-        "westTexasExplosion2013": 0.37069085240364075
-    },
-    {
-        "costaRicaEarthquake2012": 0.4966188669204712,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.1633366495370865
-    },
-    {
-        "costaRicaEarthquake2012": 0.00306142820045352,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.41337472200393677
-    },
-    {
-        "costaRicaEarthquake2012": 0.0004713064699899405,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.0007600242970511317,
-        "westTexasExplosion2013": 0.6949377655982971
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.046367913484573364,
-        "floodColorado2013": 0.00017552467761561275,
-        "typhoonPablo2012": 0.000183270953129977,
-        "laAirportShooting2013": 0.007685356307774782,
-        "westTexasExplosion2013": 0.9769153594970703
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0006495288689620793,
-        "floodColorado2013": 0.0001510082365712151,
-        "typhoonPablo2012": 0.00025259872199967504,
-        "laAirportShooting2013": 0.0018492972012609243,
-        "westTexasExplosion2013": 0.9943104982376099
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.6528617739677429,
-        "floodColorado2013": 0.000361875252565369,
-        "typhoonPablo2012": 0.06147966533899307,
-        "laAirportShooting2013": 0.0016220076940953732,
-        "westTexasExplosion2013": 0.9548298716545105
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.021969836205244064,
-        "floodColorado2013": 0.00018632522551342845,
-        "typhoonPablo2012": 0.0035537397488951683,
-        "laAirportShooting2013": 0.0011322691570967436,
-        "westTexasExplosion2013": 0.9895467162132263
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.004402827471494675,
-        "floodColorado2013": 0.00024340290110558271,
-        "typhoonPablo2012": 0.00010506856051506475,
-        "laAirportShooting2013": 0.0037183065433055162,
-        "westTexasExplosion2013": 0.9937710165977478
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.007778482045978308,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.00039092570659704506,
-        "laAirportShooting2013": 0.0008086097077466547,
-        "westTexasExplosion2013": 0.9517075419425964
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.022658923640847206,
-        "floodColorado2013": 0.00011609224748099223,
-        "typhoonPablo2012": 0.0012191683053970337,
-        "laAirportShooting2013": 0.007513065822422504,
-        "westTexasExplosion2013": 0.9622990489006042
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00035767100052908063,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0006121674086898565,
-        "laAirportShooting2013": 0.00020509937894530594,
-        "westTexasExplosion2013": 0.9838901162147522
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.7150740623474121,
-        "floodColorado2013": 0.002321096835657954,
-        "typhoonPablo2012": 0.0005890650791116059,
-        "laAirportShooting2013": 0.1323893815279007,
-        "westTexasExplosion2013": 0.9575211405754089
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.01782621629536152,
-        "floodColorado2013": 0.0003523171762935817,
-        "typhoonPablo2012": 0.0001381042820867151,
-        "laAirportShooting2013": 0.026357579976320267,
-        "westTexasExplosion2013": 0.9810675382614136
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.014386696740984917,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0010080952197313309,
-        "laAirportShooting2013": 0.0001072432569344528,
-        "westTexasExplosion2013": 0.9651306867599487
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.30345651507377625,
-        "floodColorado2013": 0.00033301071380265057,
-        "typhoonPablo2012": 0.004701454658061266,
-        "laAirportShooting2013": 0.010066832415759563,
-        "westTexasExplosion2013": 0.9189002513885498
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.09646813571453094,
-        "floodColorado2013": 6.252091407077387e-05,
-        "typhoonPablo2012": 0.004776067566126585,
-        "laAirportShooting2013": 0.002222473965957761,
-        "westTexasExplosion2013": 0.9768004417419434
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.005173210520297289,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0033307024277746677,
-        "laAirportShooting2013": 0.0001291983062401414,
-        "westTexasExplosion2013": 0.9728354215621948
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.05578039214015007,
-        "floodColorado2013": 0.000148894265294075,
-        "typhoonPablo2012": 0.0002516280801501125,
-        "laAirportShooting2013": 0.013696116395294666,
-        "westTexasExplosion2013": 0.9071879982948303
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.26800453662872314,
-        "floodColorado2013": 0.0019874146673828363,
-        "typhoonPablo2012": 0.0006362776039168239,
-        "laAirportShooting2013": 0.03185007721185684,
-        "westTexasExplosion2013": 0.953178882598877
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.025073276832699776,
-        "floodColorado2013": 0.004386991262435913,
-        "typhoonPablo2012": 5.0956066843355075e-05,
-        "laAirportShooting2013": 0.04816330224275589,
-        "westTexasExplosion2013": 0.9713941216468811
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.005266082938760519,
-        "floodColorado2013": 0.0003869595529977232,
-        "typhoonPablo2012": 8.622663881396875e-05,
-        "laAirportShooting2013": 0.0071860067546367645,
-        "westTexasExplosion2013": 0.9946611523628235
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.05708562955260277,
-        "floodColorado2013": 0.00031634068000130355,
-        "typhoonPablo2012": 8.443596016149968e-05,
-        "laAirportShooting2013": 0.009048164822161198,
-        "westTexasExplosion2013": 0.961248517036438
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0029288295190781355,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.00019186933059245348,
-        "westTexasExplosion2013": 0.8849635124206543
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.2774808704853058,
-        "floodColorado2013": 0.00213805865496397,
-        "typhoonPablo2012": 0.0032435532193630934,
-        "laAirportShooting2013": 0.0508052334189415,
-        "westTexasExplosion2013": 0.9800795912742615
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00025734261726029217,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 6.412790389731526e-05,
-        "laAirportShooting2013": 0.0007901904755271971,
-        "westTexasExplosion2013": 0.9722638726234436
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0004399123426992446,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.005464703775942326,
-        "westTexasExplosion2013": 0.9558766484260559
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.004469343461096287,
-        "floodColorado2013": 0.0002979561686515808,
-        "typhoonPablo2012": 0.00013242705608718097,
-        "laAirportShooting2013": 0.0068656341172754765,
-        "westTexasExplosion2013": 0.9886341094970703
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.0019209682941436768,
-        "westTexasExplosion2013": 0.9752610921859741
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00024497794220224023,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 6.009106800775044e-05,
-        "laAirportShooting2013": 0.00039341559750027955,
-        "westTexasExplosion2013": 0.7126362323760986
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0034570388961583376,
-        "floodColorado2013": 0.00022267350868787616,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.010653626173734665,
-        "westTexasExplosion2013": 0.981253445148468
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.016289254650473595,
-        "floodColorado2013": 0.0014385894173756242,
-        "typhoonPablo2012": 0.000890862662345171,
-        "laAirportShooting2013": 0.0333624891936779,
-        "westTexasExplosion2013": 0.992263674736023
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0005687084048986435,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.00032492150785401464,
-        "laAirportShooting2013": 6.337389640975744e-05,
-        "westTexasExplosion2013": 0.9392744898796082
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.579398228088394e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0005030223983339965,
-        "laAirportShooting2013": 0.0002744476078078151,
-        "westTexasExplosion2013": 0.982948362827301
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00020126077288296074,
-        "floodColorado2013": 0.00020858176867477596,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.010761735960841179,
-        "westTexasExplosion2013": 0.9918516278266907
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9141824841499329
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.974734365940094
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.00013740023132413626,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.991734504699707
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00012352701742202044,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0001669852208578959,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9821652770042419
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.0004670156631618738,
-        "westTexasExplosion2013": 0.8077272772789001
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0002581225417088717,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.000778881658334285,
-        "laAirportShooting2013": 0.000244381430093199,
-        "westTexasExplosion2013": 0.9975773692131042
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0024323747493326664,
-        "floodColorado2013": 0.00042296081664972007,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.028686078265309334,
-        "westTexasExplosion2013": 0.9049932956695557
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.0006618292536586523,
-        "westTexasExplosion2013": 0.993969202041626
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.7081272602081299
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0033053962979465723,
-        "floodColorado2013": 0.0006186712416820228,
-        "typhoonPablo2012": 0.0001526195410406217,
-        "laAirportShooting2013": 0.010843644849956036,
-        "westTexasExplosion2013": 0.9816100597381592
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0007519302307628095,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.050786491483449936,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9900874495506287
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00031837751157581806,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.07290256023406982,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9930996894836426
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.006875144317746162,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9056863188743591
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00010312157974112779,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.017639124765992165,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9940924048423767
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0022938463371247053,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0011008321307599545,
-        "laAirportShooting2013": 0.0002759470953606069,
-        "westTexasExplosion2013": 0.9886544942855835
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.00030156393768265843,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.972224771976471
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.008168169297277927,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.04592599347233772,
-        "laAirportShooting2013": 5.3787756769452244e-05,
-        "westTexasExplosion2013": 0.9723125696182251
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.009346234612166882,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9952906370162964
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0029062293469905853,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.009439695626497269,
-        "laAirportShooting2013": 0.00011457401706138626,
-        "westTexasExplosion2013": 0.9959890246391296
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.005738887004554272,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9902350902557373
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 5.625107223750092e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0010707975598052144,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9863994121551514
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 7.252107025124133e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.00313050695694983,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9425072073936462
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0022095460444688797,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9344857931137085
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00989100057631731,
-        "floodColorado2013": 0.00040177986375056207,
-        "typhoonPablo2012": 0.002210725797340274,
-        "laAirportShooting2013": 0.0050115277990698814,
-        "westTexasExplosion2013": 0.9947399497032166
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0007074990426190197,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.05916869267821312,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9798482060432434
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.005420672241598368,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.061453044414520264,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9892876148223877
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.005805239547044039,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.10077154636383057,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9897827506065369
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00018936120613943785,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0012158401077613235,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9817740321159363
-    },
-    {
-        "costaRicaEarthquake2012": 5.019913078285754e-05,
-        "fireColorado2012": 0.0006863385206088424,
-        "floodColorado2013": 0.055769771337509155,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.9883506298065186,
-        "westTexasExplosion2013": 0.9303081631660461
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.018539495766162872,
-        "floodColorado2013": 0.02266225405037403,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.805191159248352,
-        "westTexasExplosion2013": 0.9926401376724243
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.01203151699155569,
-        "floodColorado2013": 0.0018676600884646177,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.05262253060936928,
-        "westTexasExplosion2013": 0.9963106513023376
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.9899917939910665e-05,
-        "floodColorado2013": 0.000253175909165293,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.09265124797821045,
-        "westTexasExplosion2013": 0.9949376583099365
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00048250489635393023,
-        "floodColorado2013": 0.03469901531934738,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.979296863079071,
-        "westTexasExplosion2013": 0.9914503693580627
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.003151001874357462,
-        "floodColorado2013": 0.07215844839811325,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.9989286065101624,
-        "westTexasExplosion2013": 0.9194210171699524
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0005684146890416741,
-        "floodColorado2013": 0.003441775217652321,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.7878805994987488,
-        "westTexasExplosion2013": 0.9261792302131653
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.002165556885302067,
-        "floodColorado2013": 0.021037330850958824,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.7929285764694214,
-        "westTexasExplosion2013": 0.9981841444969177
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0007206457084976137,
-        "floodColorado2013": 0.027755925431847572,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.9788098335266113,
-        "westTexasExplosion2013": 0.9957446455955505
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00850344356149435,
-        "floodColorado2013": 0.32232901453971863,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.9982814788818359,
-        "westTexasExplosion2013": 0.9823585152626038
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00012901905574835837,
-        "floodColorado2013": 0.00033742276718840003,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.13476282358169556,
-        "westTexasExplosion2013": 0.9783534407615662
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.038792066276073456,
-        "floodColorado2013": 0.28137996792793274,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.9822063446044922,
-        "westTexasExplosion2013": 0.9946552515029907
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 0.008051542565226555,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.9938462376594543,
-        "westTexasExplosion2013": 0.8932044506072998
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0004388440866023302,
-        "floodColorado2013": 0.001172196469269693,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.031716059893369675,
-        "westTexasExplosion2013": 0.9959808588027954
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.015859970822930336,
-        "floodColorado2013": 0.010321730747818947,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.738366425037384,
-        "westTexasExplosion2013": 0.9919626116752625
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.007112768944352865,
-        "floodColorado2013": 0.15825919806957245,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.9839948415756226,
-        "westTexasExplosion2013": 0.9645991921424866
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.019814148545265198,
-        "floodColorado2013": 0.16297456622123718,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.9939128756523132,
-        "westTexasExplosion2013": 0.998088538646698
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 6.536445289384574e-05,
-        "floodColorado2013": 0.0006396268145181239,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.6988883018493652,
-        "westTexasExplosion2013": 0.9414317607879639
-    },
-    {
-        "costaRicaEarthquake2012": 5.830711234011687e-05,
-        "fireColorado2012": 0.0002821706875693053,
-        "floodColorado2013": 0.018073655664920807,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.9985705614089966,
-        "westTexasExplosion2013": 0.5164241194725037
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0010225859005004168,
-        "laAirportShooting2013": 5.788263661088422e-05,
-        "westTexasExplosion2013": 0.9946415424346924
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0003739784879144281,
-        "floodColorado2013": 0.00014544952136930078,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.004868412856012583,
-        "westTexasExplosion2013": 0.9994014501571655
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0013392996042966843,
-        "laAirportShooting2013": 0.00017728678358253092,
-        "westTexasExplosion2013": 0.9992163181304932
-    },
-    {
-        "costaRicaEarthquake2012": 0.002283018082380295,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 5.0519302021712065e-05,
-        "westTexasExplosion2013": 0.9999545812606812
-    },
-    {
-        "costaRicaEarthquake2012": 0.00032528882729820907,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.00022539270867127925,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9999545812606812
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.00022224146232474595,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9999263286590576
-    },
-    {
-        "costaRicaEarthquake2012": 0.00011028657900169492,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 0.00020020923693664372,
-        "typhoonPablo2012": 0.0019833804108202457,
-        "laAirportShooting2013": 0.00047717971028760076,
-        "westTexasExplosion2013": 0.9999545812606812
-    },
-    {
-        "costaRicaEarthquake2012": 0.00012896579573862255,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.998469889163971
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 8.29426062409766e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0022359415888786316,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9998893737792969
-    },
-    {
-        "costaRicaEarthquake2012": 0.00023317275918088853,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9922791719436646
+        "westTexasExplosion2013": 4.539787187241018e-05
     },
     {
         "costaRicaEarthquake2012": 4.539787187241018e-05,
@@ -885,118 +533,470 @@
         "floodColorado2013": 4.539787187241018e-05,
         "typhoonPablo2012": 4.539787187241018e-05,
         "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9989540576934814
+        "westTexasExplosion2013": 4.539787187241018e-05
     },
     {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.00019199633970856667,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9999172687530518
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 6.868397031212226e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.0009116299916058779,
-        "laAirportShooting2013": 0.0005393238388933241,
-        "westTexasExplosion2013": 0.9937368631362915
-    },
-    {
-        "costaRicaEarthquake2012": 6.69633227516897e-05,
+        "costaRicaEarthquake2012": 8.566719043301418e-05,
         "fireColorado2012": 4.539787187241018e-05,
         "floodColorado2013": 4.539787187241018e-05,
         "typhoonPablo2012": 4.539787187241018e-05,
         "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9999545812606812
+        "westTexasExplosion2013": 4.539787187241018e-05
     },
     {
-        "costaRicaEarthquake2012": 0.0005623635370284319,
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
         "fireColorado2012": 4.539787187241018e-05,
         "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.000244198803557083,
-        "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9999545812606812
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 7.334088149946183e-05,
-        "typhoonPablo2012": 0.00022754637757316232,
-        "laAirportShooting2013": 0.0021053506061434746,
-        "westTexasExplosion2013": 0.9994980096817017
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.0020325060468167067,
-        "floodColorado2013": 0.00039089328492991626,
-        "typhoonPablo2012": 0.0001427952229278162,
-        "laAirportShooting2013": 0.0015646456740796566,
-        "westTexasExplosion2013": 0.9958803653717041
-    },
-    {
-        "costaRicaEarthquake2012": 0.00028833994292654097,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 0.0009331195033155382,
-        "typhoonPablo2012": 0.000801191374193877,
-        "laAirportShooting2013": 0.0005514146178029478,
-        "westTexasExplosion2013": 0.9997724890708923
-    },
-    {
-        "costaRicaEarthquake2012": 5.296646850183606e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 0.00032793584978207946,
         "typhoonPablo2012": 4.539787187241018e-05,
-        "laAirportShooting2013": 0.0023190758656710386,
-        "westTexasExplosion2013": 0.9999167919158936
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 0.00048306011012755334,
-        "floodColorado2013": 0.00018324737902730703,
-        "typhoonPablo2012": 0.0001037467154674232,
-        "laAirportShooting2013": 0.0019329332280904055,
-        "westTexasExplosion2013": 0.996516227722168
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 5.088259786134586e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.00011691020336002111,
-        "laAirportShooting2013": 0.0003169973206240684,
-        "westTexasExplosion2013": 0.9998360872268677
-    },
-    {
-        "costaRicaEarthquake2012": 4.539787187241018e-05,
-        "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.00023839484492782503,
         "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9999545812606812
+        "westTexasExplosion2013": 4.539787187241018e-05
     },
     {
-        "costaRicaEarthquake2012": 6.582477362826467e-05,
+        "costaRicaEarthquake2012": 0.0016461098566651344,
+        "fireColorado2012": 5.597735435003415e-05,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
         "fireColorado2012": 4.539787187241018e-05,
-        "floodColorado2013": 6.228959682630375e-05,
-        "typhoonPablo2012": 8.622046880191192e-05,
-        "laAirportShooting2013": 0.0003425456234253943,
-        "westTexasExplosion2013": 0.9999076128005981
+        "floodColorado2013": 0.00013372748799156398,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
     },
     {
         "costaRicaEarthquake2012": 4.539787187241018e-05,
         "fireColorado2012": 4.539787187241018e-05,
         "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 9.901016164803877e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
         "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.9999545812606812
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 5.4282325436361134e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00027589238015934825,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
     },
     {
         "costaRicaEarthquake2012": 4.539787187241018e-05,
         "fireColorado2012": 4.539787187241018e-05,
         "floodColorado2013": 4.539787187241018e-05,
-        "typhoonPablo2012": 0.000991607434116304,
+        "typhoonPablo2012": 4.539787187241018e-05,
         "laAirportShooting2013": 4.539787187241018e-05,
-        "westTexasExplosion2013": 0.999119222164154
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.00014373315207194537,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00019647074805106968,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.986024941899814e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.00025075391749851406,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.0005544196465052664,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 6.914253754075617e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.1064959466457367,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.9883415102958679,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.00036959510180167854,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 7.240560080390424e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.015829648822546005,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.0006099690799601376,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00030800196691416204,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.00029276678105816245,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.00024595129070803523,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00032823075889609754,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.00017394323367625475,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.0015197268221527338,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 6.723815022269264e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.285106897354126,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.03928137570619583,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.9916459918022156,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.0033064018934965134,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 9.746823343448341e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.14952749013900757,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.001339825801551342,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 5.5436830734834075e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.026224572211503983,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.00023117933596950024,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.533220112323761,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.0082746222615242,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 9.47617954807356e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.9015270471572876,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 6.848292105132714e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00011814227036666125,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.00014722665946464986,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.11510230600833893,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0002972157089971006,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.9775217771530151,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.024219051003456116,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 6.128453969722614e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.8452418446540833,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.829711906495504e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0003255565243307501,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.00012007223267573863,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 8.125521708279848e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.00013014297292102128,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.002356248442083597,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 6.300889799604192e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.6703406572341919,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.004456838592886925,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00012637620966415852,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.28463226556777954,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.001472017029300332,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.08102674037218094,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 0.3661383092403412,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 4.539787187241018e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 0.9998852014541626,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0018423014553263783,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 6.233761087059975e-05,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00020128974574618042,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0011497708037495613,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0006441170116886497,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0001737257553031668,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0007703614537604153,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0013718015979975462,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0008686221553944051,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0012638410553336143,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0008341767825186253,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00046945977373979986,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0004002877394668758,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0013637702213600278,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0006898047868162394,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0010246563469991088,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.0001494997413828969,
+        "floodColorado2013": 0.00047785203787498176,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 0.00014500417455565184,
+        "floodColorado2013": 0.028542624786496162,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0012040145229548216,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00029340918990783393,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0004404328064993024,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00037327961763367057,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0011587908957153559,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.0001856265589594841,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
+    },
+    {
+        "costaRicaEarthquake2012": 4.539787187241018e-05,
+        "fireColorado2012": 4.539787187241018e-05,
+        "floodColorado2013": 0.00059957813937217,
+        "typhoonPablo2012": 4.539787187241018e-05,
+        "laAirportShooting2013": 4.539787187241018e-05,
+        "westTexasExplosion2013": 4.539787187241018e-05
     }
 ]
