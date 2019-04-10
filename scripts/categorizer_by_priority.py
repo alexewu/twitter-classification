@@ -29,7 +29,7 @@ for itn in range(10):
         nlp.update([doc], [gold], sgd=optimizer)
 
 
-with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/10-dev-no-error.json") as f:
+with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/10-dev.json") as f:
     test_data = json.load(f)
 
 num_correct = 0
@@ -52,7 +52,6 @@ print("The percent correctly calculated is %f" % (float(num_correct) / num_total
 
 with open('/Users/alexandrawu/Desktop/twitter2/ratings.json', 'w') as outfile:
     json.dump(output, outfile, indent=4)
-
 
 
 
