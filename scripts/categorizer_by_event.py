@@ -3,7 +3,7 @@ import json
 nlp = spacy.load('en')
 
 #loading the training data
-with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/training-data/70-training.json") as f:
+with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/training-data/50-training.json") as f:
     data = json.load(f)
 
 train_data = []
