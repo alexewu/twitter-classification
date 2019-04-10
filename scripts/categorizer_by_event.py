@@ -2,7 +2,7 @@ import spacy
 import json
 nlp = spacy.load('en')
 
-with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/10-test.json") as f:
+with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/80-training.json") as f:
     data = json.load(f)
 
 train_data = []
@@ -18,8 +18,8 @@ for post in data:
         priority = {"cats": {"costaRicaEarthquake2012": 0, "fireColorado2012": 0, "floodColorado2013": 0, "typhoonPablo2012": 1, "laAirportShooting2013": 0, "westTexasExplosion2013": 0}}
     elif post["eventid"] == "laAirportShooting2013":
         priority = {"cats": {"costaRicaEarthquake2012": 0, "fireColorado2012": 0, "floodColorado2013": 0, "typhoonPablo2012": 0, "laAirportShooting2013": 1, "westTexasExplosion2013": 0}}
-    else:
-        priority = {"cats": {"costaRicaEarthquake2012": 0, "fireColorado2012": 0, "floodColorado2013": 0, "typhoonPablo2012": 0, "laAirportShooting2013": 1, "westTexasExplosion2013": 1}}
+    elif post["eventid"] == "westTexasExplosion2013":
+        priority = {"cats": {"costaRicaEarthquake2012": 0, "fireColorado2012": 0, "floodColorado2013": 0, "typhoonPablo2012": 0, "laAirportShooting2013": 0, "westTexasExplosion2013": 1}}
     pair = (post["content"], priority)
     train_data.append(pair)
 
@@ -59,7 +59,7 @@ for post in test_data:
 print("The number of correctly categorized posts is %d out of %d" % (num_correct, num_total))
 print("The percent correctly calculated is %f" % (float(num_correct) / num_total))
 
-with open('/Users/alexandrawu/Desktop/twitter2/ratings.json', 'w') as outfile:
+with open('/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/ratings.json', 'w') as outfile:
     json.dump(output, outfile, indent=4)
 
 
