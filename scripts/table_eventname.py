@@ -32,10 +32,10 @@ def get_row(gold, ratings, posts):
     print("%d %d %d %d %d %d\n" % (costaRica, fireColorado, floodColorado, typhoonPablo, laAirport, westTexas))
 
 if __name__ == '__main__':
-    with open("/Users/michelle02px2017/PycharmProjects/twitter/rating.json") as f:
+    with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/ratings.json") as f:
         ratings = json.load(f)
 
-    with open("/Users/michelle02px2017/Desktop/twitter2/venv/twitter-classification/all-posts/10-dev.json") as f:
+    with open("/Users/alexandrawu/Desktop/twitter2/venv/twitter-classification/all-posts/10-dev.json") as f:
         posts = json.load(f)
 
     event_names = ["costaRicaEarthquake2012", "fireColorado2012", "floodColorado2013", "typhoonPablo2012", "laAirportShooting2013", "westTexasExplosion2013"]
